@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirigiendo...</title>
+  <script src="redirects.js"></script>
+</head>
+<body>
+  <p>Redirigiendo...</p>
+  <script>
+    const path = window.location.pathname;
+    const destino = redirects[path];
+
+    if (destino) {
+      window.location.href = destino;
+    } else {
+      document.body.innerHTML = "<h2>Enlace no encontrado</h2><p>Revisa la URL.</p>";
+    }
+  </script>
+</body>
+</html>
