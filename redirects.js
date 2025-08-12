@@ -21,7 +21,7 @@ const redirects = {
 	"/3018": "https://chat.whatsapp.com/JdB3tXUEjFgIhgmoOiMWsV",
 	"/3019": "https://chat.whatsapp.com/Gw7csyUlqLl8tHjy9abfgv",
 	"/3020": "https://chat.whatsapp.com/E4LEUsK7ffSLT11ohQkugt",
-	"/3021": "https://chat.whatsapp.com/GXOq0Aw277T32fc9q5EOgI",
+	"/3021": "https://chat.whatsapp.com/JDDIMQIUUeu6uFLzuFP2aH",
 	"/3022": "https://chat.whatsapp.com/IkNeU6lZkK7L72QYx56Vdz",
 	"/3023": "https://chat.whatsapp.com/J6ZPVFG7Fu5H4Vtk0rqleo",
 	"/3024": "https://chat.whatsapp.com/HYKrlfNKwLx9njW1upPPal",
@@ -42,7 +42,7 @@ const redirects = {
 	"/3039": "https://chat.whatsapp.com/IkSmNFG8EhO9OJK6BdGiuF",
 	"/3040": "https://chat.whatsapp.com/JP0rHLD1uC27mNwau5Byi3",
 	"/3041": "https://chat.whatsapp.com/DMghg5v1BeBKKUc01hn1Hs",
-	"/3042": "https://chat.whatsapp.com/GtzG8fWrqnIJjeZbIPLK9R",
+	"/3042": "https://chat.whatsapp.com/KSZkjnoCJ2GJjKsEOuW8RL",
 
 //Links Adicionales
   "/direcciontourahorro": "https://maps.app.goo.gl/anBmnibhVb3MpRNk6?g_st=ipc",
