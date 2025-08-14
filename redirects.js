@@ -45,6 +45,6 @@ const redirects = {
 	"/3042": "https://chat.whatsapp.com/KSZkjnoCJ2GJjKsEOuW8RL",
 
 //Links Adicionales
-  "/direcciontourahorro": "https://maps.app.goo.gl/anBmnibhVb3MpRNk6?g_st=ipc",
+  "/direcciontourahorro": "https://maps.app.goo.gl/EGhE32pDY9BR6S4k7?g_st=ipc",
   "/tiendas3b": "https://www.tiendas3b.com.bo"
 };
