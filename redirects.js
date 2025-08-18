@@ -42,7 +42,7 @@ const redirects = {
 	"/3039": "https://chat.whatsapp.com/IkSmNFG8EhO9OJK6BdGiuF",
 	"/3040": "https://chat.whatsapp.com/JP0rHLD1uC27mNwau5Byi3",
 	"/3041": "https://chat.whatsapp.com/DMghg5v1BeBKKUc01hn1Hs",
-	"/3042": "https://chat.whatsapp.com/KSZkjnoCJ2GJjKsEOuW8RL",
+	"/3042": "https://chat.whatsapp.com/DeGXuGJknfRDHes5HNzNGs?mode=ems_share_c",
 
 //Links Adicionales
   "/direcciontourahorro": "https://maps.app.goo.gl/EGhE32pDY9BR6S4k7?g_st=ipc",
