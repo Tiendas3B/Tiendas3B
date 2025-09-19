@@ -43,9 +43,13 @@ const redirects = {
 	"/3040": "https://chat.whatsapp.com/JP0rHLD1uC27mNwau5Byi3",
 	"/3041": "https://chat.whatsapp.com/DMghg5v1BeBKKUc01hn1Hs",
 	"/3042": "https://chat.whatsapp.com/DeGXuGJknfRDHes5HNzNGs?mode=ems_share_c",
+	"/3043": "https://chat.whatsapp.com/BzWEX1x0slI1DVjRaqPMCs",
+	"/3044": "https://chat.whatsapp.com/CeReTjXFwkKLjtSbSGb9er",
+
 
 	//Links Adicionales
-  "/direcciontourahorro": "https://3b.com.bo/tiendas/",
+  "/direcciontourahorro": "https://chat.whatsapp.com/KEaFsW3qVL5DscyMxy7kkI",
   "/whatsappclubvecinos": "https://chat.whatsapp.com/HBwGldamWcGFrVH2zouhN4?mode=ac_t",
+  "/whatsappfexpo": "https://chat.whatsapp.com/KEaFsW3qVL5DscyMxy7kkI",
   "/tiendas3b": "https://www.tiendas3b.com.bo"
 };
