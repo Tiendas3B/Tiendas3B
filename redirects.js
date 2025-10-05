@@ -45,7 +45,7 @@ const redirects = {
 	"/3042": "https://chat.whatsapp.com/DeGXuGJknfRDHes5HNzNGs?mode=ems_share_c",
 	"/3043": "https://chat.whatsapp.com/Bar8NHvps64LmINvERRbge",
 	"/3044": "https://chat.whatsapp.com/CeReTjXFwkKLjtSbSGb9er",
-	"/3045": "‪https://chat.whatsapp.com/DMIs4q7L4jaBgQHd8rhO9q",
+	"/3045": "https://chat.whatsapp.com/DMIs4q7L4jaBgQHd8rhO9q",
 	"/3046": "https://chat.whatsapp.com/EO0vDAXbt63JkmBep9CQlM",
 
  
