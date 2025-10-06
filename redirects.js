@@ -42,11 +42,11 @@ const redirects = {
 	"/3039": "https://chat.whatsapp.com/IkSmNFG8EhO9OJK6BdGiuF",
 	"/3040": "https://chat.whatsapp.com/JP0rHLD1uC27mNwau5Byi3",
 	"/3041": "https://chat.whatsapp.com/DMghg5v1BeBKKUc01hn1Hs",
-	"/3042": "https://chat.whatsapp.com/DeGXuGJknfRDHes5HNzNGs?mode=ems_share_c",
+	"/3042": "‪https://chat.whatsapp.com/FiITtPedKXgGCMp6YXuAVT",
 	"/3043": "https://chat.whatsapp.com/Bar8NHvps64LmINvERRbge",
-	"/3044": "https://chat.whatsapp.com/CeReTjXFwkKLjtSbSGb9er",
+	"/3044": "https://chat.whatsapp.com/JPS32puOYNAA8499sbmXFr",
 	"/3045": "https://chat.whatsapp.com/DMIs4q7L4jaBgQHd8rhO9q",
-	"/3046": "https://chat.whatsapp.com/EO0vDAXbt63JkmBep9CQlM",
+	"/3046": "https://chat.whatsapp.com/IsWT9YoqDFeHibzL9utKvH",
 
  
 
