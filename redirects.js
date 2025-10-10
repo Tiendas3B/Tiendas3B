@@ -53,7 +53,7 @@ const redirects = {
 	//Links Adicionales
   "/direcciontourahorro": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
   "/whatsappclubvecinos": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
-  "/whatsappfexpo": "https://chat.whatsapp.com/G6iJu6z1mViBmQrN3pRG88",
+  "/whatsappfexpo": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
   "/tiendas3b": "https://www.tiendas3b.com.bo",
   "/pauta": "https://chat.whatsapp.com/HyGRRWOrkNaLRKec15J3zr",
   "/masivo": "https://chat.whatsapp.com/LxL6xscZnoL3bgFqTpr1ya"
