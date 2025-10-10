@@ -43,16 +43,16 @@ const redirects = {
 	"/3040": "https://chat.whatsapp.com/JP0rHLD1uC27mNwau5Byi3",
 	"/3041": "https://chat.whatsapp.com/DMghg5v1BeBKKUc01hn1Hs",
 	"/3042": "https://chat.whatsapp.com/FiITtPedKXgGCMp6YXuAVT",
-	"/3043": "https://chat.whatsapp.com/Bar8NHvps64LmINvERRbge",
-	"/3044": "https://chat.whatsapp.com/JPS32puOYNAA8499sbmXFr",
-	"/3045": "https://chat.whatsapp.com/DMIs4q7L4jaBgQHd8rhO9q",
+	"/3043": "https://chat.whatsapp.com/EdDH58n970U8RLl9j18ew2",
+	"/3044": "https://chat.whatsapp.com/IbGAHfuAjL2DbtLBNBdrX8",
+	"/3045": "https://chat.whatsapp.com/Fy0s4L1TLaVFjhmPXMJjH0",
 	"/3046": "https://chat.whatsapp.com/IsWT9YoqDFeHibzL9utKvH",
 
  
 
 	//Links Adicionales
-  "/direcciontourahorro": "https://chat.whatsapp.com/G6iJu6z1mViBmQrN3pRG88",
-  "/whatsappclubvecinos": "https://chat.whatsapp.com/G6iJu6z1mViBmQrN3pRG88",
+  "/direcciontourahorro": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
+  "/whatsappclubvecinos": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
   "/whatsappfexpo": "https://chat.whatsapp.com/G6iJu6z1mViBmQrN3pRG88",
   "/tiendas3b": "https://www.tiendas3b.com.bo",
   "/pauta": "https://chat.whatsapp.com/HyGRRWOrkNaLRKec15J3zr",
