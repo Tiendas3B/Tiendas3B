@@ -21,7 +21,7 @@ const redirects = {
 	"/3018": "https://chat.whatsapp.com/JdB3tXUEjFgIhgmoOiMWsV",
 	"/3019": "https://chat.whatsapp.com/Gw7csyUlqLl8tHjy9abfgv",
 	"/3020": "https://chat.whatsapp.com/E4LEUsK7ffSLT11ohQkugt",
-	"/3021": "https://chat.whatsapp.com/C2FRRoLuMgFKgj12t2YVEE?mode=ac_t",
+	"/3021": "https://chat.whatsapp.com/JuVERmpEicTBIzTyzrgYDh?mode=wwt",
 	"/3022": "https://chat.whatsapp.com/IkNeU6lZkK7L72QYx56Vdz",
 	"/3023": "https://chat.whatsapp.com/J6ZPVFG7Fu5H4Vtk0rqleo",
 	"/3024": "https://chat.whatsapp.com/HYKrlfNKwLx9njW1upPPal",
@@ -44,7 +44,7 @@ const redirects = {
 	"/3041": "https://chat.whatsapp.com/DMghg5v1BeBKKUc01hn1Hs",
 	"/3042": "https://chat.whatsapp.com/FiITtPedKXgGCMp6YXuAVT",
 	"/3043": "https://chat.whatsapp.com/EdDH58n970U8RLl9j18ew2",
-	"/3044": "https://chat.whatsapp.com/IbGAHfuAjL2DbtLBNBdrX8",
+	"/3044": "https://chat.whatsapp.com/IbGAHfuAjL2DbtLBNBdrX8?mode=wwt",
 	"/3045": "https://chat.whatsapp.com/Fy0s4L1TLaVFjhmPXMJjH0",
 	"/3046": "https://chat.whatsapp.com/IsWT9YoqDFeHibzL9utKvH",
 
