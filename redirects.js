@@ -37,7 +37,7 @@ const redirects = {
 	"/3034": "https://chat.whatsapp.com/CqJDfJW7Grs6HE3s2gvaH1",
 	"/3035": "https://chat.whatsapp.com/F82dzNqUybeHz4WIIjEO2m",
 	"/3036": "https://chat.whatsapp.com/Iyhk0WVPxTL5mSdQm7TE3d",
-	"/3037": "https://chat.whatsapp.com/EKiHHRNDjraCkHVLiyNOQ8",
+	"/3037": "https://chat.whatsapp.com/JgvGGtdsRCv10wLwMYwY9b",
 	"/3038": "https://chat.whatsapp.com/G18PL2LPhy73tVO6msty8W",
 	"/3039": "https://chat.whatsapp.com/IkSmNFG8EhO9OJK6BdGiuF",
 	"/3040": "https://chat.whatsapp.com/JP0rHLD1uC27mNwau5Byi3",
