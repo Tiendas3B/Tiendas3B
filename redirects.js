@@ -56,5 +56,5 @@ const redirects = {
   "/whatsappfexpo": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
   "/tiendas3b": "https://www.tiendas3b.com.bo",
   "/pauta": "https://chat.whatsapp.com/HyGRRWOrkNaLRKec15J3zr",
-  "/masivo": "https://chat.whatsapp.com/LxL6xscZnoL3bgFqTpr1ya"
+  "/masivo": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ"
 };
