@@ -29,7 +29,7 @@ const redirects = {
 	"/3026": "https://chat.whatsapp.com/HAKR3d8YWdK8Kd4sRvlADG",
 	"/3027": "https://chat.whatsapp.com/Ckwgh2FaV4GCPd1hdPMMBB",
 	"/3028": "https://chat.whatsapp.com/JEvk7iuE5l1FDOu1eOVd3h",
-	"/3029": "https://chat.whatsapp.com/HOA8Qlqb1vaA8W91UWH04M",
+	"/3029": "https://chat.whatsapp.com/H8Cx7lXQci06l2fW7ciOZZ?mode=wwc",
 	"/3030": "https://chat.whatsapp.com/FX53H8S85HT5Cz4E9b2MYG",
 	"/3031": "https://chat.whatsapp.com/FG5AUgZlLjP1g7dQgzBi2X",
 	"/3032": "https://chat.whatsapp.com/HOHmMJ9qgPZE4Np9wVQftL",
@@ -56,5 +56,6 @@ const redirects = {
   "/whatsappfexpo": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
   "/tiendas3b": "https://www.tiendas3b.com.bo",
   "/pauta": "https://chat.whatsapp.com/HyGRRWOrkNaLRKec15J3zr",
-  "/masivo": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ"
+  "/masivo": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
+  "/bpo": "https://tiendas3b.evaluar.com/evjm/606335ee-9fe9-4ae7-b6ad-50f16edb3ede"
 };
