@@ -55,7 +55,7 @@ const redirects = {
   "/whatsappclubvecinos": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
   "/whatsappfexpo": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ?mode=wwt",
   "/tiendas3b": "https://www.tiendas3b.com.bo",
-  "/pauta": "https://chat.whatsapp.com/HyGRRWOrkNaLRKec15J3zr",
+  "/pauta": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
   "/masivo": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
   "/bpo": "https://tiendas3b.evaluar.com/evjm/606335ee-9fe9-4ae7-b6ad-50f16edb3ede"
 };
