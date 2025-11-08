@@ -47,6 +47,7 @@ const redirects = {
 	"/3044": "https://chat.whatsapp.com/IbGAHfuAjL2DbtLBNBdrX8?mode=wwt",
 	"/3045": "https://chat.whatsapp.com/Fy0s4L1TLaVFjhmPXMJjH0",
 	"/3046": "https://chat.whatsapp.com/IsWT9YoqDFeHibzL9utKvH",
+	"/3048": "https://chat.whatsapp.com/GqnDCvfPdsu1gx3k3QhlfM?mode=wwt",
 
  
 
