@@ -2,7 +2,7 @@
 const redirects = {
 // Links de Tiendas
 	"/3001": "https://chat.whatsapp.com/KG1m7yiPVCJ3q7lPxQTC6D",
-	"/3002": "https://chat.whatsapp.com/I2eh1bKHe0YIyvxrag6aLu",
+	"/3002": "https://chat.whatsapp.com/EQHcLeylZgC1nE8p3UTB4g",
 	"/3003": "https://chat.whatsapp.com/HBxTlLGiW6kKS896dCO1vM",
 	"/3004": "https://chat.whatsapp.com/E4tZHU7aoeVEXB28gsAvsm",
 	"/3005": "https://chat.whatsapp.com/FLKap4pJikWC4RqRmeU7Ej",
@@ -23,7 +23,7 @@ const redirects = {
 	"/3020": "https://chat.whatsapp.com/HIArjljVc7EF6HbEcCjamX",
 	"/3021": "https://chat.whatsapp.com/JuVERmpEicTBIzTyzrgYDh?mode=wwt",
 	"/3022": "https://chat.whatsapp.com/IkNeU6lZkK7L72QYx56Vdz",
-	"/3023": "https://chat.whatsapp.com/J6ZPVFG7Fu5H4Vtk0rqleo",
+	"/3023": "https://chat.whatsapp.com/CqK05fpyfdvI7k8S1XuMss",
 	"/3024": "https://chat.whatsapp.com/HYKrlfNKwLx9njW1upPPal",
 	"/3025": "https://chat.whatsapp.com/EblO3lyEtaJ45ipB4EYmFA",
 	"/3026": "https://chat.whatsapp.com/HAKR3d8YWdK8Kd4sRvlADG",
