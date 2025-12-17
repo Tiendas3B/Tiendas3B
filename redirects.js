@@ -39,7 +39,7 @@ const redirects = {
 "/3037": "https://chat.whatsapp.com/CBNAJ4RMAUCBkE6hahjlUV",
 "/3038": "https://chat.whatsapp.com/GI0pS1Az2cUDsXZ5VsWYLq",
 "/3039": "https://chat.whatsapp.com/DXYfgBhjJr34WQAEmsoMn2",
-"/3040": "https://chat.whatsapp.com/JP0rHLD1uC27mNwau5Byi3",
+"/3040": "https://chat.whatsapp.com/I09XbYK4etNIkLO6ppJKDl",
 "/3041": "https://chat.whatsapp.com/DMghg5v1BeBKKUc01hn1Hs",
 "/3042": "https://chat.whatsapp.com/FiITtPedKXgGCMp6YXuAVT",
 "/3043": "https://chat.whatsapp.com/GTnGgVrYkjI2caUKkCPrJ7",
@@ -54,6 +54,7 @@ const redirects = {
 "/3054": "https://chat.whatsapp.com/KpnfQ2NFmRUCBFFfSxDCC3",
 "/3058": "https://chat.whatsapp.com/DAL6aadhhMhLhEbL27t0yh",
 "/3063": "https://chat.whatsapp.com/Is8VQSuJiY6CvvP4t0DuYH",
+"/3060": "‎https://chat.whatsapp.com/F14mLIbG3rnFUGR48NVQsh",
  
 
 	//Links Adicionales
