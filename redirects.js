@@ -65,6 +65,7 @@ const redirects = {
 "/3063": "https://chat.whatsapp.com/Is8VQSuJiY6CvvP4t0DuYH",
 "/3064": "https://chat.whatsapp.com/EZ4FiV5TRh1DqnKhLMlCau",
 "/3065": "",
+	"/3067": "https://chat.whatsapp.com/IsKJ4v3IabZ3sqYrFoxTuG",
  
 
 	//Links Adicionales
@@ -75,3 +76,4 @@ const redirects = {
   "/pauta": "https://chat.whatsapp.com/KNDD6hzHy840RXQb411wl4",
   "/masivo": "https://chat.whatsapp.com/IrBIyYo5hfp0xRwrbVuLlK"
 };
+
