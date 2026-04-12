@@ -67,6 +67,7 @@ const redirects = {
 "/3065": "",
 	"/3066": "https://chat.whatsapp.com/LHRXhNa9mDP8oOpMyOf5q4?mode=gi_t",
 	"/3067": "https://chat.whatsapp.com/DWLOqw87zseA4bBy4knaF0",
+  "/3068": "https://chat.whatsapp.com/BZBZM7zeLpX5XLwjsIkkGl",
  
 
 	//Links Adicionales
