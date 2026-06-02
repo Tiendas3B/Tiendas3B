@@ -76,7 +76,8 @@ const redirects = {
   "/whatsappfexpo": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
   "/tiendas3b": "https://www.tiendas3b.com.bo",
   "/pauta": "https://chat.whatsapp.com/KNDD6hzHy840RXQb411wl4",
-  "/masivo": "https://chat.whatsapp.com/IrBIyYo5hfp0xRwrbVuLlK"
+  "/masivo": "https://chat.whatsapp.com/IrBIyYo5hfp0xRwrbVuLlK",
+	"/marketing": "https://chat.whatsapp.com/CobBaBd9Ldk1Cvet74JUK5"
 };
 
 
