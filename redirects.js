@@ -65,21 +65,21 @@ const redirects = {
 "/3063": "https://chat.whatsapp.com/Is8VQSuJiY6CvvP4t0DuYH",
 "/3064": "https://chat.whatsapp.com/EZ4FiV5TRh1DqnKhLMlCau",
 "/3065": "https://chat.whatsapp.com/FC7A556LSwcKnnXfkUhL8U?s=sw&p=a&ilr=1",
-	"/3066": "https://chat.whatsapp.com/LHRXhNa9mDP8oOpMyOf5q4?mode=gi_t",
-	"/3067": "https://chat.whatsapp.com/DWLOqw87zseA4bBy4knaF0",
-  "/3068": "https://chat.whatsapp.com/BZBZM7zeLpX5XLwjsIkkGl",
-	"/3072": "https://chat.whatsapp.com/ELoNRCwWO7uLBELkg7B7iv?mode=gi_t",
-	"/3074": "https://chat.whatsapp.com/BhjU61NysIsITItJnbIR9e?s=sw&p=a&ilr=1"
+"/3066": "https://chat.whatsapp.com/LHRXhNa9mDP8oOpMyOf5q4?mode=gi_t",
+"/3067": "https://chat.whatsapp.com/DWLOqw87zseA4bBy4knaF0",
+"/3068": "https://chat.whatsapp.com/BZBZM7zeLpX5XLwjsIkkGl",
+"/3072": "https://chat.whatsapp.com/ELoNRCwWO7uLBELkg7B7iv?mode=gi_t",
+"/3074": "https://chat.whatsapp.com/BhjU61NysIsITItJnbIR9e?s=sw&p=a&ilr=1"
  
 
 	//Links Adicionales
-  "/direcciontourahorro": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
-  "/whatsappclubvecinos": "https://chat.whatsapp.com/BhjU61NysIsITItJnbIR9e?s=sw&p=a&ilr=1",
-  "/whatsappfexpo": "https://chat.whatsapp.com/JruTMAwYrBt5bOJLNpr5PQ",
+  "/direcciontourahorro": "https://3b.com.bo/tiendas/",
+  "/whatsappclubvecinos": "https://chat.whatsapp.com/BBrvx8bFhArFoW9ZRn83Y9?s=sh&p=a&mlu=4&ilr=4",
+  "/whatsappfexpo": "https://chat.whatsapp.com/EzHBG1uviwdFkaWJcOltsh?s=qt&p=a&mlu=4&ilr=4",
   "/tiendas3b": "https://www.tiendas3b.com.bo",
   "/pauta": "https://chat.whatsapp.com/KNDD6hzHy840RXQb411wl4",
   "/masivo": "https://chat.whatsapp.com/IrBIyYo5hfp0xRwrbVuLlK",
-	"/marketing": "https://chat.whatsapp.com/CobBaBd9Ldk1Cvet74JUK5"
+  "/marketing": "https://chat.whatsapp.com/CobBaBd9Ldk1Cvet74JUK5"
 };
 
 
