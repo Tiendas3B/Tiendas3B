@@ -8,9 +8,9 @@ const redirects = {
 "/3005": "https://chat.whatsapp.com/IsKJ4v3IabZ3sqYrFoxTuG",
 "/3006": "https://chat.whatsapp.com/HI8yFctf5yx2awqFxvBc7g",
 "/3007": "https://chat.whatsapp.com/Ffu37onEmDALOT8dOnpFME",
-"/3008": "https://chat.whatsapp.com/COLRygUuKhNAPtEOEDzdHf",
+"/3008": "https://chat.whatsapp.com/FRnxmFT5bIhHSVd94OI4lS",
 "/3009": "https://chat.whatsapp.com/L9dJ8gQBknKJXV4LyRYoFG",
-"/3010": "https://chat.whatsapp.com/COLRygUuKhNAPtEOEDzdHf",
+"/3010": "https://chat.whatsapp.com/HzqQ4A4sRBgGYxbltp1nKL",
 "/3011": "https://chat.whatsapp.com/GfF5m98jp469gIV1j3GKoM",
 "/3013": "https://chat.whatsapp.com/LTRbcE72rLqJVqS5PSUNWZ",
 "/3014": "https://chat.whatsapp.com/Hh9eDmtYGaGD9LK2aNIgi5",
@@ -46,12 +46,12 @@ const redirects = {
 "/3044": "https://chat.whatsapp.com/F0J3zB2E0y1CsdmPgUDExN",
 "/3045": "https://chat.whatsapp.com/Fy0s4L1TLaVFjhmPXMJjH0",
 "/3046": "https://chat.whatsapp.com/E9BmcSCsCan8MhN9WnR4Np",
-"/3047": "",
+"/3047": "https://chat.whatsapp.com/DHHte8GP10ZEI4k7mf8sue?s=sh&p=a&mlu=4&ilr=4",
 "/3048": "https://chat.whatsapp.com/Lt9H7hUygsCH7Hq0J4dWb4",
 "/3049": "https://chat.whatsapp.com/LHcROpegxA7ASad4LGb8eS",
 "/3050": "https://chat.whatsapp.com/HFhKIVqrCWN8Pmbqt8zmjZ",
 "/3051": "https://chat.whatsapp.com/J4TYYixSSzB7Y7AscQYPnT",
-"/3052": "",
+"/3052": "https://chat.whatsapp.com/HHG0DkXQVynCDnm53GM7dp?s=sh&p=a&mlu=4&ilr=4",
 "/3053": "https://chat.whatsapp.com/KD90AyJz3Ec0ZMgNrPchvC",
 "/3054": "https://chat.whatsapp.com/KpnfQ2NFmRUCBFFfSxDCC3",
 "/3055": "https://chat.whatsapp.com/KOMny0SPaooELMRp332hsz",
@@ -70,6 +70,8 @@ const redirects = {
 "/3068": "https://chat.whatsapp.com/BZBZM7zeLpX5XLwjsIkkGl",
 "/3072": "https://chat.whatsapp.com/ELoNRCwWO7uLBELkg7B7iv?mode=gi_t",
 "/3074": "https://chat.whatsapp.com/BhjU61NysIsITItJnbIR9e?s=sw&p=a&ilr=1",
+"/3077": "https://chat.whatsapp.com/LCdHG8NTQiiHpypHyU3wKg",
+"/3080": "https://chat.whatsapp.com/IhiFkWOzZjOFLrVCd0MJ9k",
  
 
 	//Links Adicionales
@@ -79,7 +81,7 @@ const redirects = {
   "/tiendas3b": "https://www.tiendas3b.com.bo",
   "/pauta": "https://chat.whatsapp.com/KNDD6hzHy840RXQb411wl4",
   "/masivo": "https://chat.whatsapp.com/IrBIyYo5hfp0xRwrbVuLlK",
-  "/marketing": "https://chat.whatsapp.com/CobBaBd9Ldk1Cvet74JUK5"
+  "/marketing": "https://chat.whatsapp.com/IhiFkWOzZjOFLrVCd0MJ9k"
 };
 
 
