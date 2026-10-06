@@ -81,7 +81,7 @@ const redirects = {
   "/tiendas3b": "https://www.tiendas3b.com.bo",
   "/pauta": "https://chat.whatsapp.com/KNDD6hzHy840RXQb411wl4",
   "/masivo": "https://chat.whatsapp.com/IrBIyYo5hfp0xRwrbVuLlK",
-  "/marketing": "https://chat.whatsapp.com/GfmXejbGzUY07usesontUy?s=sh&p=a&mlu=4&ilr=4"
+  "/marketing": "https://chat.whatsapp.com/HWADco87ExtJCLQb0lcSLX?s=sh&p=a&mlu=4&ilr=4"
 };
 
 
