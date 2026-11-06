@@ -91,7 +91,7 @@ const redirects = {
  
 
 	//Links Adicionales
-"/chivarumbera01": "https://chat.whatsapp.com/Isr48ZuNFJ6HlrUUaCb2Ar?s=sh&p=a&mlu=4&ilr=4",
+"/chivarumbera01": "https://chat.whatsapp.com/BDFXSiHKkGMIf3M0hToC5s?s=cl&p=a&iam=2",
   "/direcciontourahorro": "https://3b.com.bo/tiendas/",
   "/whatsappclubvecinos": "https://chat.whatsapp.com/BBrvx8bFhArFoW9ZRn83Y9?s=sh&p=a&mlu=4&ilr=4",
   "/whatsappfexpo": "https://chat.whatsapp.com/DdlQYFMyJ95CIDrxTuLRLu?s=sh&p=a&mlu=4&ilr=4",
