@@ -78,15 +78,15 @@ const redirects = {
   "/3076": "https://chat.whatsapp.com/Hgx3NdeyDTFCXlEZnfa02z?s=sh&p=a&iam=2",
   "/3077": "https://chat.whatsapp.com/HIZyKv5wIlnCqfMEiM1RT5?s=sh&p=a&iam=2",
   "/3078": "https://chat.whatsapp.com/FUp3gEqcQbAEKepGnKxv3z?s=sh&p=a&iam=2",
-  "/3079": "https://chat.whatsapp.com/K7mohCK27wl4etXDBdQ9Cz?s=sh&p=a&mlu=4&ilr=4", // sin enlace nuevo: se mantiene el anterior
+  "/3079": "https://chat.whatsapp.com/GjdElOs59SQFVWP94a3kY2?s=sw&p=a&iam=2",
   "/3080": "https://chat.whatsapp.com/Cj3gLmYss8HBsFSslnpNNp?s=sh&p=a&iam=2",
   "/3081": "",
   "/3082": "https://chat.whatsapp.com/Idpkphu07W00199LXHPuSz?s=sh&p=a&iam=2",
   "/3083": "https://chat.whatsapp.com/HkYC0S1cbAb4pWVzBwaaMo?s=sh&p=a&iam=2",
-  "/3084": "",
+  "/3084": "https://chat.whatsapp.com/JhwLPhslx6F0G81oLvWkcg?s=sw&p=a&iam=2",
   "/3085": "https://chat.whatsapp.com/BMTbS00QbfsLtpWNhhpJBM?s=sh&p=a&iam=2",
   "/3086": "",
-  "/3087": "",
+  "/3087": "https://chat.whatsapp.com/Efa3E6TBsi76uWx20Ur3Nn?s=sw&p=a&iam=2",
 
   // Links Adicionales
   "/chivarumbera01": "https://chat.whatsapp.com/BDFXSiHKkGMIf3M0hToC5s?s=cl&p=a&iam=2",
