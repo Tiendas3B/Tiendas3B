@@ -78,7 +78,7 @@ const redirects = {
   "/3076": "https://chat.whatsapp.com/Hgx3NdeyDTFCXlEZnfa02z?s=cl&p=a&iam=2", // MERCADO EL RECREO
   "/3077": "https://chat.whatsapp.com/HIZyKv5wIlnCqfMEiM1RT5?s=cl&p=a&iam=2", // MONTERO II
   "/3078": "https://chat.whatsapp.com/DOL8HR8BdfRHeYxMV0TtrX?s=cl&p=a&iam=2", // PAMPITAS
-  "/3079": "https://chat.whatsapp.com/Efa3E6TBsi76uWx20Ur3Nn?s=cl&p=a&iam=2", // LOS OLIVOS
+  "/3079": "https://chat.whatsapp.com/GjdElOs59SQFVWP94a3kY2?s=cl&p=i&iam=2", // GALLITOS
   "/3080": "https://chat.whatsapp.com/Cj3gLmYss8HBsFSslnpNNp?s=cl&p=a&iam=2", // 4 DE NOVIEMBRE
   "/3081": "", // PLAN 4000 (sin enlace)
   "/3082": "https://chat.whatsapp.com/Idpkphu07W00199LXHPuSz?s=cl&p=a&iam=2", // CONCEPCION
@@ -86,7 +86,7 @@ const redirects = {
   "/3084": "",
   "/3085": "https://chat.whatsapp.com/ETADt2bnU25EooZT54OhXS?s=cl&p=a&iam=2", // LOS CUSIS
   "/3086": "",
-  "/3087": "",
+  "/3087": "https://chat.whatsapp.com/Efa3E6TBsi76uWx20Ur3Nn?s=cl&p=a&iam=2", // LOS OLIVOS
 
   // Links Adicionales
   "/chivarumbera01": "https://chat.whatsapp.com/BDFXSiHKkGMIf3M0hToC5s?s=cl&p=a&iam=2",
